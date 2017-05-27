@@ -1,9 +1,14 @@
 /*
-*  Calculator of painting of building constructions' costs (www.mkanin.com)
+*  Copyright (c) 2017 Mikhail Kanin
+*  All rights reserved.
 *
 *  See LICENSE.txt for licensing information.
 *
-*  Copyright (c) 2017 Mikhail Kanin
+*  Calculator of painting of building constructions' costs (www.mkanin.com)
+*
+*  Attention!
+*  This version of calculator includes obfuscated part of code.
+*  If you like to get non-obfuscated version, please contact with copyright owner.
 */
 
 // Price
