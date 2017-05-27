@@ -1,5 +1,5 @@
 /*
-*  Copyright (c) 2017 Mikhail Kanin
+*  Copyright (c) 2017, Mikhail Kanin
 *  All rights reserved.
 *
 *  See LICENSE.txt for licensing information.
