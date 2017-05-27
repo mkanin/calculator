@@ -6,7 +6,7 @@
 *
 *  Calculator of painting of building constructions' costs (www.mkanin.com)
 *
-*  Attention!
+*  Pay attention!
 *  This version of calculator includes obfuscated part of code.
 *  If you like to get full non-obfuscated version of it, please contact with copyright owner.
 */
