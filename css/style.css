@@ -1,0 +1,95 @@
+/*
+*  Calculator of painting of building constructions' costs (github.com/mkanin/calculator)
+*
+*  See LICENSE.txt for licensing information.
+*
+*  Copyright (c) 2017 Mikhail Kanin
+*/
+
+.image {
+    width: 64px;
+    height: 64px;
+    /* display: block; */
+    float: left;
+    margin-right: 12px;
+}
+
+.image-resize {
+    width: 74px;
+    height: 74px;
+    margin-right: 14px;
+}
+
+.product {  
+    height: 64px;
+    font-size: 18px;
+    padding-top: 20px; 
+}
+
+.product-resize {
+    font-size: 20px;
+    padding-top: 23px;
+}
+
+.input-title {
+    /* margin-top: 8px; */
+}
+
+.input-field-main {
+    color: #003366;
+    font-size: 16px;
+    margin-bottom: 8px;
+}
+
+.output-result-title {
+    font-weight: bold;
+}
+
+.output-result-main {
+    margin-top: 8px;
+}
+
+.static-additional-class {
+    color: #fb0000; 
+}
+
+.bold {
+    font-weight: 600;
+}
+
+body {
+    color: #003366;
+    font-size: 16px;
+    font-family: 'Verdana', sans-serif;
+}
+
+header {
+    color: #7a7a52;
+    margin-bottom: 36px;
+}
+
+footer {
+    color: #7a7a52;
+    font-size: 12px;
+    margin-top: 15%;
+}
+
+footer .attention-part {
+    margin-bottom: 12px;
+}
+
+input {
+    border: 1px solid #003366;
+}
+
+a:link, a:visited, a:hover, a:active {
+    text-decoration: none;
+}
+
+a:link, a:visited, a:hover, a:active .copyright {
+    color: #7a7a52;
+}
+
+#calc {
+    width: 30%;
+}
