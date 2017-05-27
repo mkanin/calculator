@@ -1,5 +1,5 @@
 /*
-*  Calculator of painting of building constructions' costs (github.com/mkanin/calculator)
+*  Calculator of painting of building constructions' costs (www.mkanin.com)
 *
 *  See LICENSE.txt for licensing information.
 *
