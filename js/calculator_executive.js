@@ -2,7 +2,7 @@
 *  Copyright (c) 2017, Mikhail Kanin
 *  All rights reserved.
 *
-*  See LICENSE.txt for licensing information.
+*  See LICENSE.txt for license information.
 *
 *  Calculator of painting of building constructions' costs (www.mkanin.com)
 *
