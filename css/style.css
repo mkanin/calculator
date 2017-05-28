@@ -11,6 +11,43 @@
 *  If you like to get full non-obfuscated version of it, please contact with copyright owner.
 */
 
+body {
+    color: #003366;
+    font-size: 16px;
+    font-family: 'Verdana', sans-serif;
+}
+
+header {
+    color: #7a7a52;
+    margin-bottom: 36px;
+}
+
+footer {
+    color: #7a7a52;
+    font-size: 12px;
+    margin-top: 15%;
+}
+
+footer .attention-title {
+    font-weight: 600;
+}
+
+footer .attention-main {
+    margin-bottom: 12px;
+}
+
+input {
+    border: 1px solid #003366;
+}
+
+a:link, a:visited, a:hover, a:active {
+    text-decoration: none;
+}
+
+a:link, a:visited, a:hover, a:active .copyright {
+    color: #7a7a52;
+}
+
 .image {
     width: 64px;
     height: 64px;
@@ -56,43 +93,6 @@
 
 .static-additional-class {
     color: #fb0000; 
-}
-
-body {
-    color: #003366;
-    font-size: 16px;
-    font-family: 'Verdana', sans-serif;
-}
-
-header {
-    color: #7a7a52;
-    margin-bottom: 36px;
-}
-
-footer {
-    color: #7a7a52;
-    font-size: 12px;
-    margin-top: 15%;
-}
-
-footer .attention-title {
-    font-weight: 600;
-}
-
-footer .attention-main {
-    margin-bottom: 12px;
-}
-
-input {
-    border: 1px solid #003366;
-}
-
-a:link, a:visited, a:hover, a:active {
-    text-decoration: none;
-}
-
-a:link, a:visited, a:hover, a:active .copyright {
-    color: #7a7a52;
 }
 
 #calc {
