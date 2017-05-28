@@ -8,7 +8,7 @@
 *
 *  Pay attention!
 *  This version of calculator includes obfuscated part of code.
-*  If you like to get full non-obfuscated version of it, please contact with copyright owner.
+*  If you like to get full non-obfuscated version of it, please contact with copyright holder.
 */
 
 var numberOfResultDecimalPlaces=2,dimension="m2",staticObjects={"round-pipe":{name:"round-pipe",title:"Round pipe or armature","img-id":"round-pipe-img",images:{"image-default-source":"round-pipe.png","image-active-source":"round-pipe-active.png"},"child-div-id":"round-pipe-child","dyn-elements":["length","radius"],"calculation-function":roundPipeCalc},"profile-pipe":{name:"profile-pipe",title:"Profile pipe","img-id":"profile-pipe-img",images:{"image-default-source":"profile-pipe.png","image-active-source":"profile-pipe-active.png"},
