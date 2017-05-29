@@ -8,7 +8,7 @@
 *
 *  Pay attention!
 *  This version of calculator contains obfuscated part of code.
-*  If you like to get full non-obfuscated version of the calculator, please contact with copyright holder.
+*  If you would like to get full non-obfuscated version of the calculator, please contact copyright holder.
 */
 
 // Price
