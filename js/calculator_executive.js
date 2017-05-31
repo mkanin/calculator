@@ -1,14 +1,14 @@
 /*
-*  Copyright (c) 2017, Mikhail Kanin
-*  All rights reserved.
+*  Calculator of painting of building constructions' costs (www.mkanin.com)
 *
 *  See LICENSE.txt for license information.
 *
-*  Calculator of painting of building constructions' costs (www.mkanin.com)
-*
 *  Pay attention!
 *  This version of calculator contains obfuscated part of code.
-*  If you would like to get full non-obfuscated version of the calculator, please contact copyright holder.
+*  If you would like to get full non-obfuscated version of the calculator,
+*  please contact copyright holder.
+*
+*  Copyright (c) 2017 Mikhail Kanin. All rights reserved.
 */
 
 var numberOfResultDecimalPlaces=2,measure="m2",staticObjects={"round-pipe":{name:"round-pipe",title:"Round pipe or armature","img-id":"round-pipe-img",images:{"image-default-source":"round-pipe.png","image-active-source":"round-pipe-active.png"},"child-div-id":"round-pipe-child","dyn-elements":["length","radius"],"calculation-function":roundPipeCalc},"profile-pipe":{name:"profile-pipe",title:"Profile pipe","img-id":"profile-pipe-img",images:{"image-default-source":"profile-pipe.png","image-active-source":"profile-pipe-active.png"},
