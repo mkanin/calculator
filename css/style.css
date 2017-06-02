@@ -44,7 +44,7 @@ a:link, a:visited, a:hover, a:active {
     text-decoration: none;
 }
 
-a:link, a:visited, a:hover, a:active .copyright {
+a.copyright:link, a.copyright:visited, a.copyright:hover, a.copyright:active {
     color: #7a7a52;
 }
 
