@@ -492,10 +492,10 @@ function stripCalc(arrayOfValues) {
     width = parseFloat(arrayOfValues[1]);
     var res = 0.0;
     if ((length.toString() == "NaN") || (width.toString() == "NaN")) {
-        return res.toFixed();
+        return res;
     }
     if ((length <= 0) || (width <= 0)) {
-        return res.toFixed(2);
+        return res;
     }
     res = 2 * length * width;
     return res;
