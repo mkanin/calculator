@@ -1,2 +1,2 @@
 # calculator
-This is a calculator for calculation a cost of painting of building constructions.
+This is a calculator for calculating a cost of painting of building constructions.
